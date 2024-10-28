@@ -1,0 +1,2 @@
+# core-project
+Student details 
